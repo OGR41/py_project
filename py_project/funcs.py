@@ -4,3 +4,4 @@ def sum(a, b):
 
 def minus():
     num = a - b
+    return num
