@@ -2,4 +2,5 @@ def sum():
     num = a + b
     return num
 
-sum()
+def minus():
+    num = a - b
