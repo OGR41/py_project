@@ -2,4 +2,4 @@ from funcs import sum
 from funcs import minus
 
 sum(1, 2)
-minus()
+minus(2, 1)

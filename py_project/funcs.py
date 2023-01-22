@@ -2,6 +2,6 @@ def sum(a, b):
     num = a + b
     return num
 
-def minus():
+def minus(a, b):
     num = a - b
     return num
